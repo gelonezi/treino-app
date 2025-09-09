@@ -1,0 +1,19 @@
+# React Native
+node_modules/
+build/
+android/app/build/
+ios/Pods/
+*.log
+.env
+.expo/
+# VSCode
+.vscode/
+# Metro
+.cache/
+# Misc
+*.tmp
+*.swp
+.DS_Store
+.idea/
+# Test coverage
+coverage/
